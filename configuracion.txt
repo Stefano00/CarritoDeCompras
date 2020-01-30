@@ -1,0 +1,2 @@
+formatoSalida=xls;
+rutaSalida=C:\Users\EDUTECNO\eclipse-workspace\CarritoDeComprasStefano;
